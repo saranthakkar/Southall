@@ -9,3 +9,7 @@ import org.junit.runner.RunWith;
 public class RunCukeTest {
 }
 
+<<<<<<< HEAD
+=======
+//saran thakkar
+>>>>>>> 6ffda884a6a813ce7c21a698381150af415233e0
